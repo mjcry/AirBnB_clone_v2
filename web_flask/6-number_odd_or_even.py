@@ -1,4 +1,5 @@
-tarts a Flash Web Application """
+#!/usr/bin/python3
+""" Starts a Flash Web Application """
 from flask import Flask, render_template
 app = Flask(__name__)
 app.jinja_env.trim_blocks = True
