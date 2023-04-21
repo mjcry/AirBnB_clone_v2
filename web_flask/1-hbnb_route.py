@@ -1,4 +1,5 @@
-tarts a Flash Web Application HBNB"""
+#!/usr/bin/python3
+""" Starts a Flash Web Application HBNB"""
 from flask import Flask
 app = Flask(__name__)
 
